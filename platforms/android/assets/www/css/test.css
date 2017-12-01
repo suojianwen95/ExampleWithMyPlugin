@@ -1,0 +1,31 @@
+  *{
+         margin:0px;
+         padding:0px;
+   }
+
+  input{width:100%;height:30px;margin-top:10px;}
+
+  .bluetoothList{
+     list-style:none;
+     width:100%;
+  }
+
+  .bluetoothList li{
+       width:100%;
+       background-Color:#eee;
+       margin-top:10px;
+       margin-bottom:10px;
+  }
+
+  .bluetoothList li input{
+      width:50px;
+      float:right;
+      margin:5px;
+  }
+
+  .bluetoothList li div{
+      width:50%;
+      float:left;
+      font-size:12px;
+      line-height:30px;
+  }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--jquery-mobile css-->
+    <link rel="stylesheet" href="https://apps.bdimg.com/libs/jquerymobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <!--jquery-mobile js-->
+    <script src="https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://apps.bdimg.com/libs/jquerymobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <!-- 使用扫描插件 -->
+    <script type="text/javascript" src="file:///android_asset/www/cordova.js"></script>
+    <script type="text/javascript" src="file:///android_asset/www/cordova_plugins.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="file:///android_asset/www/css/test.css"/>
+    <title>测试</title>
+</head>
+    <body>
+        <input type = "button" onclick="thelist('deviceList');" value = "获取配对"/>
+        <ul id = "deviceList" class = "bluetoothList">
+
+        </ul>
+    <!-- api -->
+    <script type="text/javascript" src = "file:///android_asset/www/js/api.js"></script>
+    </body>
+</html>

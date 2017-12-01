@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "E:\\androidspace\\MyTest",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "E:\\androidspace\\MyTest",
+        "spec": "E:\\androidspace\\MyTest",
+        "type": "directory"
+      },
+      "E:\\androidspace\\BluetoothTest"
+    ]
+  ],
+  "_from": "..\\MyTest",
+  "_id": "mytest@1.0.0",
+  "_inCache": true,
+  "_location": "/mytest",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "E:\\androidspace\\MyTest",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "E:\\androidspace\\MyTest",
+    "spec": "E:\\androidspace\\MyTest",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:..\\MyTest",
+  "_shasum": "5309000b6d688ee5139cd8d38d1cf69d9a429b2c",
+  "_shrinkwrap": null,
+  "_spec": "E:\\androidspace\\MyTest",
+  "_where": "E:\\androidspace\\BluetoothTest",
+  "author": {
+    "name": "sjw"
+  },
+  "dependencies": {},
+  "description": "This is test.",
+  "devDependencies": {},
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "mytest",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

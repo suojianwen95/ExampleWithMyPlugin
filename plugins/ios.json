@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.android.bluetoothtest"
+    },
+    "SimpleTest": {
+      "PACKAGE_NAME": "com.android.bluetoothtest"
+    }
+  },
+  "dependent_plugins": {}
+}
